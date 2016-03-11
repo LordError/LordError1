@@ -254,20 +254,20 @@ Persian: @IranSeed
     help_text_realm = [[
 Realm Commands:
 
-!kick [username|id]
-You can also do it by reply
+!kick [یوزرنیم|آیدی]
+شما میتوانید این دستور را با ریپلی اجرا کنید
 
-!ban [ username|id]
-You can also do it by reply
+!ban [ یوزرنیم|آیدی]
+شما میتوانید این دستور را با ریپلی اجرا کنید
 
-!unban [id]
-You can also do it by reply
+!unban [آیدی]
+شما میتوانید این دستور را با ریپلی اجرا کنید
 
 !who
-Members list
+لیست اعضا
 
 !modlist
-Moderators list
+لیست مدیران
 
 !promote [username]
 Promote someone
